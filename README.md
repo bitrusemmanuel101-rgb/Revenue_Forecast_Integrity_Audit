@@ -165,4 +165,8 @@ The concentration risk framework used in this project is directly applicable to 
 - [Dashboard_screenshots](Dashboards) - Executive Command Centre Dashboard
 - [Dataset](Data_Set) - Raw data from the different sources
 
+---
+*Part of the Emmanuel Bitrus Payments & Revenue Operations Portfolio*
+*→ [Back to Portfolio](https://lorenferatacado.my.canva.site/bitrusemmanuel-salesops-portfolio)*
+
 > **Note:** All company and client data has been anonymized. Analysis frameworks and methodologies are original work.
