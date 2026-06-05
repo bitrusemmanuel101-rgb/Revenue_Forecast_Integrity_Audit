@@ -14,7 +14,7 @@ The diagnosis: **a forecast gap crisis** - where stale pipeline inflation, dange
 ## Context
 
 **Domain:** Revenue Operations / CRM Analytics / Forecasting  
-**Tools:** Microsoft Excel, Salesforce CRM, 
+**Tools:** Microsoft Excel, Tableau. 
 **Scope:** Full pipeline quality audit - segmentation, rep analysis, regional performance, forecast accuracy  
 **Period:** March 2025 - March 2026  
 **Relevance to Payments/Fintech:** Directly mirrors merchant revenue forecasting, CRM pipeline quality management, and revenue integrity functions in payments and fintech operations
@@ -109,7 +109,7 @@ Implement mandatory qualification criteria before deals advance past stage 2. Tr
 **Business Impact:** Higher win rates on smaller, cleaner pipeline. Improved forecast accuracy.
 
 ### 4. Regional Performance Intervention
-Deploy targeted coaching and resource support to South Africa region. Identify whether underperformance is a market, process, or capability issue.
+Deploy targeted coaching and resource support to South region. Identify whether underperformance is a market, process, or capability issue.
 
 **Business Impact:** Recovery of underperforming corridor revenue.
 
